@@ -323,6 +323,7 @@ createSecretThemeType('nebelung', ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown
 createSecretThemeType('piplup', ['p', 'i', 'p', 'l', 'u', 'p', 'i', 's', 'c', 'o', 'o', 'l']);
 createSecretThemeType('forternish', ['c', 'o', 'm', 'i', 'c', 's', 'a', 'n', 's']);
 createSecretThemeType('russell2259', ['l', 'o', 'l']);
+createSecretThemeType('rajji', ['r', 'a', 'j', 'j', 'i']);
 
 // Define the secret theme button, stop using this as a cheatsheet
 secretThemeButton('hacker');
