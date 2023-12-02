@@ -272,3 +272,12 @@ body[theme="parrot"] {
   --text: #c39e1f;
   --text-secondary: #000000;
 }
+body[theme="rajji"] {
+  --background: black;
+  --theme: #72dc83;
+  --text: white;
+  --text-secondary: black;
+}
+body[theme="rajji"] * {
+  font-family: "JetBrains Mono";
+  
