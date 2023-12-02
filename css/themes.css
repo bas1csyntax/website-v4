@@ -280,4 +280,13 @@ body[theme="rajji"] {
 }
 body[theme="rajji"] * {
   font-family: "JetBrains Mono";
+}
+body[theme="bas1c"] {
+  --background: black;
+  --theme: #b62ec9;
+  --text: white;
+  --text-secondary: black;
+}
+body[theme="bas1c"] * {
+  font-family: "Hedvig Letters Serif";
   
