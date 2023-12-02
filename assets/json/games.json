@@ -4,7 +4,7 @@
 		"name": "monkeymart",
 		"root": "mart",
 		"file": "Monkey Marr.html",
-		"img": "meta/apple-touch-icon.png"
+		"img": "./images/monkeymart.jpg"
 	},
 	{
 		"name": "swarmsimulator",
