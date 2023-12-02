@@ -1,7 +1,7 @@
 {
-  "name": "3kh0",
-  "description": "The better unblocked games website.",
-  "repository": "https://github.com/3kh0/3kh0.github.io",
-  "logo": "https://raw.githubusercontent.com/3kh0/3kh0.github.io/main/images/logo.png",
+  "name": "SchoolisFun",
+  "description": "The real games website, unblocked and frequently updated!",
+  "repository": "https://github.com/bas1csyntax/website-v4",
+  "logo": "https://github.com/bas1csyntax/website-v4/blob/main/images/logo.png",
   "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-static" }]
 }
