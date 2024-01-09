@@ -2,6 +2,5 @@
   "name": "SchoolisFun",
   "description": "The real games website, unblocked and frequently updated!",
   "repository": "https://github.com/bas1csyntax/website-v4",
-  "logo": "https://github.com/bas1csyntax/website-v4/blob/main/images/logo.png",
-  "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-static" }]
+  "logo": "https://github.com/bas1csyntax/website-v4/blob/main/images/logo.png"
 }
