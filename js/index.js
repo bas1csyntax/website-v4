@@ -32,6 +32,8 @@ function checkCookie(key) {
   }
 }
 
+alert("main: cdn error. Contact system administrator.");
+
 var key = "myKey"; // set the key to check for
 if (!checkCookie(key)) { // if the key does not exist in the cookie
   alert("Hello! This website is free to use but it costs alot money to maintain with the servers for games which is really expensive, so if you have ad blocker it would be nice of you to turn it off so we can keep the site running! Thank you for supporting us! <3"); // display an alert message
