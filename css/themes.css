@@ -289,4 +289,14 @@ body[theme="bas1c"] {
 }
 body[theme="bas1c"] * {
   font-family: "Hedvig Letters Serif";
+
+  }
+body[theme="ekamsexy"] {
+  --background: black;
+  --theme: #062a78;
+  --text: white;
+  --text-secondary: black;
+}
+body[theme="bas1c"] * {
+  font-family: "JetBrains Mono";
   
