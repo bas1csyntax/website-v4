@@ -112,7 +112,10 @@ window.addEventListener('load', () => {
   }
 
   // Set up the WidgetBot crate
- <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer> new Crate({ server: '1184106241706971228', // SchoolisFun | Offical Server channel: '1184106242147352672' // #💬・general }) </script>
+  if(Crate) {
+    crate = new Crate({
+      server: '971769908205604864', // EchoDev
+      channel: '1017203047388160050', // #guest-chat
       // notifications: false,
   })
   }
