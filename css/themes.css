@@ -297,6 +297,6 @@ body[theme="ekamsexy"] {
   --text: white;
   --text-secondary: black;
 }
-body[theme="bas1c"] * {
+body[theme="ekamsexy"] * {
   font-family: "JetBrains Mono";
   
