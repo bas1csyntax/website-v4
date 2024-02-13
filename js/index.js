@@ -328,6 +328,7 @@ createSecretThemeType('russell2259', ['l', 'o', 'l']);
 createSecretThemeType('rajji', ['r', 'a', 'j', 'j', 'i']);
 createSecretThemeType('bas1c', ['b', 'a', 's', '1', 'c']);
 createSecretThemeType('hacks', ['h', 'a', 'c', 'k', 's']);
+createSecretThemeType('ekamsexy', ['e', 'k', 'a', 'm', 's', 'e', 'x', 'y']);
 
 // Define the secret theme button, stop using this as a cheatsheet
 secretThemeButton('hacker');
